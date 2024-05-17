@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    overflow: hidden;
+}
+
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 25rem;
+    font-size: 70px;
+    font-family: monospace;
+    inset: 0;
+}
+
+.circle{
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+}
